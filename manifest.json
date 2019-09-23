@@ -1,0 +1,38 @@
+{
+  "name": "Tugas MAkalah",
+  "short_name": "tugasmakalah",
+  "start_url": "https://makalahmission.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Referensi Seputar Makalah",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-OaR2-XVHya4/XYiYB58jsbI/AAAAAAAAAHg/qcDYnQGsUxQCb2465QldRYP3ctHGeg_5ACLcBGAsYHQ/s48/Tugas%2BMakalah.jpg",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OaR2-XVHya4/XYiYB58jsbI/AAAAAAAAAHg/qcDYnQGsUxQCb2465QldRYP3ctHGeg_5ACLcBGAsYHQ/s72/Tugas%2BMakalah.jpg",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OaR2-XVHya4/XYiYB58jsbI/AAAAAAAAAHg/qcDYnQGsUxQCb2465QldRYP3ctHGeg_5ACLcBGAsYHQ/s96/Tugas%2BMakalah.jpg",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OaR2-XVHya4/XYiYB58jsbI/AAAAAAAAAHg/qcDYnQGsUxQCb2465QldRYP3ctHGeg_5ACLcBGAsYHQ/s144/Tugas%2BMakalah.jpg",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OaR2-XVHya4/XYiYB58jsbI/AAAAAAAAAHg/qcDYnQGsUxQCb2465QldRYP3ctHGeg_5ACLcBGAsYHQ/s168/Tugas%2BMakalah.jpg",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OaR2-XVHya4/XYiYB58jsbI/AAAAAAAAAHg/qcDYnQGsUxQCb2465QldRYP3ctHGeg_5ACLcBGAsYHQ/s192/Tugas%2BMakalah.jpg",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OaR2-XVHya4/XYiYB58jsbI/AAAAAAAAAHg/qcDYnQGsUxQCb2465QldRYP3ctHGeg_5ACLcBGAsYHQ/s512/Tugas%2BMakalah.jpg",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+} 
